@@ -16,6 +16,11 @@
     font-weight: bold;
 }
 
+.name:hover {
+    text-shadow: 2px 2px 4px yellow;
+    border: lime 2px solid;
+}
+
 .manders {
     color: orangered;
 }
