@@ -1,0 +1,29 @@
+.speech {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.75em;
+}
+
+.direction {
+    background-color: lightyellow;
+}
+
+.direction:hover {
+    background-color: blue;
+    color: white;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.manders {
+    color: orangered;
+}
+
+.oswald {
+    color: green;
+}
+
+.mrsAlving {
+    color: magenta;
+}   
