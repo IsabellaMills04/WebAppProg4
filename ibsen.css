@@ -27,3 +27,21 @@
 .mrsAlving {
     color: magenta;
 }   
+
+table {
+    border-collapse: collapse;
+    margin: 2em;
+}
+
+td, th {
+    border: black 1px solid;
+    padding: 1em;
+}
+th {
+    text-align: center;
+    color: palevioletred;
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
