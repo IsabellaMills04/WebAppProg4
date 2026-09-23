@@ -1,3 +1,7 @@
+img {
+    width: 200px;
+}
+
 .speech {
     font-family: 'Courier New', Courier, monospace;
     font-size: 14pt;
@@ -49,4 +53,20 @@ th {
 
 tr:nth-child(even) {
     background-color: lightgrey;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0px;   
+    margin: 0px;
+}
+
+nav ul li {
+    float: left;
+    border: black 1px solid;
+}
+
+nav ul li a {
+    display: block;
+    padding: 0.5em 1em;
 }
